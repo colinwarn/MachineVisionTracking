@@ -1,0 +1,2 @@
+MachineVisionCamera.py is for 3D applications
+sAFAMTracking.py is for 2D applications
